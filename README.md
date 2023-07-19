@@ -1,3 +1,5 @@
+# TagShare
+
 ## Installation
 
 1. [Set up android studio](https://reactnative.dev/docs/environment-setup)
@@ -21,3 +23,15 @@ npm run install
 8. Open the terminal and run the following command:
 ```bash
 npm run android
+```
+9. Bundle your application : [Documentation](https://reactnative.dev/docs/signed-apk-android)
+10. Generate apk:
+After completing the 9th step, run the following commands:
+```bash
+cd android
+./gradlew assembleRelease
+```
+11. Check that 'app-release.apk' if found in:
+```bash
+android/app/build/outputs/apk/release/
+```
