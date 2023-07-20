@@ -18,7 +18,7 @@
 6. Open your project in vscode.
 7. Install the dependencies by running the command
 ```bash
-npm run install
+npm install
 ```
 8. Open the terminal and run the following command:
 ```bash
