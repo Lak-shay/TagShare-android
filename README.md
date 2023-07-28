@@ -38,10 +38,10 @@ The icons on the top left are: User Portal, List Users, List all tags
     * Follow the steps to get the firebaseConfig Json Object
     * Copy the firebaseConfig object in 'firebase/firebaseConfig.js' file
     * Enable email-password as sign-in method in your authentication portal
-    * Create db -> choose test mode -> choose mumbai location
+    * Create Firestore database -> Choose 'Test' mode -> Choose 'Mumbai' location's server
 
 4. Youtube API Setup
-    * Get 'Youtube Data API v3' key from google cloud console.
+    * Get 'Youtube Data API v3' key from the google cloud console.
     * Insert the api key in '.env' file
 
 5. The API keys are setup
