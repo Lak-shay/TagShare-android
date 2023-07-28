@@ -4,6 +4,14 @@ Introducing the efficient video management application, featuring two convenient
 
 The User Portal provides a user-friendly interface for effortless video searches and exploration based on tags. With the new list view feature on top, you can quickly access all tags and their associated videos.
 
+🚀 Try the application: [Download](https://drive.google.com/drive/folders/113_xknf12qSU9xp3DPUWdijk9ZoTidzk?usp=sharing)
+
+Enter the following details to login as admin:
+
+📧 Email - admin1@gmail.com
+
+🔑 Password - 123456
+
 ## Features
 
 1. Login and Register Page
