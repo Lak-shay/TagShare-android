@@ -24,7 +24,7 @@ The icons on the top left are: User Portal, List Users, List all tags
 5. Video Player (On clicking the video thumbnail)
 <img width="182" alt="videoPlayer" src="https://github.com/Lak-shay/TagShare-android/assets/88343117/21012659-8274-4a5b-9c95-b64546eabdfc">
 
-## Installation
+## Setup for your own team
 
 1. [Set up android studio](https://reactnative.dev/docs/environment-setup)
 
