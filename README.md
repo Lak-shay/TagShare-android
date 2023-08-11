@@ -8,13 +8,13 @@ Introducing the efficient video management application, featuring two convenient
 
 ➖ By clicking on the video thumbnail, you can instantly access the integrated video player, enabling you to enjoy the video right within the app.
 
-🚀 Try the application: [Download](https://drive.google.com/drive/folders/113_xknf12qSU9xp3DPUWdijk9ZoTidzk?usp=sharing)
+🚀 For demonstration: [Click here](https://youtu.be/obvHPmFUYRI)
 
-Enter the following details to login as admin:
-
-📧 Email - admin1@gmail.com
-
-🔑 Password - 123456
+🚀 Try the application yourself: 
+   * [Download](https://drive.google.com/drive/folders/113_xknf12qSU9xp3DPUWdijk9ZoTidzk?usp=sharing)
+   * Enter the following details to login as admin:
+      * 📧 Email - admin1@gmail.com
+      * 🔑 Password - 123456
 
 ## Features
 
